@@ -8,6 +8,7 @@ import GuestLayout from "../components/GuestLayout.vue";
 
 const routes = [
   {
+    //Show the default page
     path: '/',
     component: DefaultLayout,
     children: [
